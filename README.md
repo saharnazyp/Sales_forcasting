@@ -18,7 +18,8 @@ The goal is to analyze historical sales data, preprocess it, train predictive mo
 - NumPy  
 - Matplotlib / Seaborn  
 - Scikit-learn  
-📊 Workflow
+
+#📊 Workflow
 
 Load and explore the dataset
 
@@ -32,12 +33,12 @@ Evaluate model performance
 
 Generate sales forecasts
 
-📈 Results
+#📈 Results
 
 The notebook demonstrates how machine learning models can be used to predict future sales based on historical data.
 Model performance is evaluated using appropriate metrics and visualized for better interpretation.
 
-🧠 Future Improvements
+#🧠 Future Improvements
 
 Add more advanced models (XGBoost, LSTM, Prophet)
 
@@ -47,14 +48,6 @@ Cross-validation
 
 Deploy the model as a web app (e.g., Streamlit or FastAPI)
 
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to open an issue or submit a pull request.
-
-📜 License
-
-This project is licensed under the MIT License.
 ## 📂 Project Structure
 ```text
 Sales_forcastin_.ipynb   # Main notebook containing data analysis and forecasting pipeline
