@@ -19,7 +19,7 @@ The goal is to analyze historical sales data, preprocess it, train predictive mo
 - Matplotlib / Seaborn  
 - Scikit-learn  
 
-#📊 Workflow
+📊 Workflow
 
 Load and explore the dataset
 
@@ -33,12 +33,12 @@ Evaluate model performance
 
 Generate sales forecasts
 
-#📈 Results
+📈 Results
 
 The notebook demonstrates how machine learning models can be used to predict future sales based on historical data.
 Model performance is evaluated using appropriate metrics and visualized for better interpretation.
 
-#🧠 Future Improvements
+🧠 Future Improvements
 
 Add more advanced models (XGBoost, LSTM, Prophet)
 
